@@ -1,0 +1,6 @@
+color of player is ba187f
+the aim is basically to play as loader
+enimies attack less accurately based on how fast youre moving
+the slower you are the faster you regenerate
+you move with a hook
+and a thruster
